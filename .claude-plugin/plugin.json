@@ -19,5 +19,9 @@
   ],
   "repository": "https://github.com/ThisIsWallE/simplestrom-claude-plugin",
   "privacyPolicyUrl": "https://www.simplestrom.de/datenschutz#ki-apps",
-  "icon": "./.claude-plugin/icon.png"
+  "icon": "./.claude-plugin/icon.png",
+  "displayName": "simplestrom Wärmepumpe",
+  "documentationUrl": "https://www.simplestrom.de/ki-assistent",
+  "supportUrl": "https://www.simplestrom.de/kontakt",
+  "termsOfServiceUrl": "https://www.simplestrom.de/nutzungsbedingungen"
 }
