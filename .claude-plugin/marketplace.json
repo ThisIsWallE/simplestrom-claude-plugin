@@ -1,0 +1,15 @@
+{
+  "name": "simplestrom",
+  "description": "simplestrom: Wärmepumpen-Plugin für Deutschland (Heizlast, Kosten, Förderung, Angebote).",
+  "owner": {
+    "name": "simplestrom",
+    "url": "https://www.simplestrom.de"
+  },
+  "plugins": [
+    {
+      "name": "simplestrom-waermepumpe",
+      "source": "./",
+      "description": "Wärmepumpe planen in Deutschland: Heizlast, Kosten, BEG-Förderung und Angebote von Fachbetrieben, direkt im Chat."
+    }
+  ]
+}
