@@ -19,6 +19,7 @@ Bundles:
 |---|---|---|---|
 | waermepumpe_kosten_schaetzen | yes | yes | calculator click flow + result card |
 | waermepumpe_lohnt_sich | yes | yes | – |
+| waermepumpe_stromkosten | yes | yes | – |
 | waermepumpe_foerderung_berechnen | yes | yes | – |
 | waermepumpe_angebot_pruefen | yes | yes | – |
 | waermepumpe_angebote_anfordern | yes | yes | quote click flow |
