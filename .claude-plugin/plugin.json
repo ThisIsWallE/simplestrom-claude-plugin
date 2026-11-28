@@ -1,7 +1,7 @@
 {
   "name": "simplestrom-waermepumpe",
-  "version": "1.2.0",
-  "description": "Wärmepumpe planen in Deutschland: Heizlast und Kosten mit dem simplestrom-Heizlastrechner nach PLZ berechnen, BEG-Förderung, Ersparnis und CO₂ zeigen und unverbindlich Angebote geprüfter Fachbetriebe anfragen, direkt im Chat.",
+  "version": "1.2.1",
+  "description": "Wärmepumpe planen in Deutschland: Heizlast und Kosten mit dem simplestrom-Heizlastrechner nach PLZ schätzen, BEG-Förderung, Ersparnis und CO₂ zeigen und unverbindlich Angebote geprüfter Fachbetriebe anfragen, direkt im Chat. Unverbindliche Schätzungen und allgemeine Informationen, keine Energie-, Förder-, Rechts- oder Steuerberatung.",
   "author": {
     "name": "simplestrom",
     "url": "https://www.simplestrom.de"
